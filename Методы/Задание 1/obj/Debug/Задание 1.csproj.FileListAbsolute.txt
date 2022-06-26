@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\obj\Debug\Задание_1.Form1.resources
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\user\source\repos\Спасова\-\Методы\Задание 1\obj\Debug\Задание 1.pdb
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\obj\Debug\Задание 1.csprojAssemblyReference.cache
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\obj\Debug\Задание_1.Form1.resources
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\spa-a\OneDrive\Рабочий стол\-\Методы\Задание 1\obj\Debug\Задание 1.pdb
